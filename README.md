@@ -1,6 +1,6 @@
 # Dear Tech Leader,
 
-![Dear Tech Leader logo](https://dearauditor.github.io/images/dear-techleader-logo.png)
+![Dear Tech Leader logo](https://deartechleader.github.io/images/dear-techleader-logo.png)
 
 Please see [deartechleader.github.io](https://deartechleader.github.io)
 
