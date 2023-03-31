@@ -18,6 +18,6 @@ Your CEO and CFO
 
 # From the Team
 
-Created by [Ben Grinnell](https://github.com/Bengrinnell), [James Wickett](https://github.com/wickett), Jennifer Brady, [Rob Stroud](https://github.com/RobertEStroud), [Sam Guckenheimer](https://github.com/SamGuckenheimer), [Scott Nasello](https://github.com/scottnasello), [Tapabrata Pal](https://github.com/tabladrum)
+Created by
 
 Released under the CC0 License: https://creativecommons.org/publicdomain/zero/1.0/
